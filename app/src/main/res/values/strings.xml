@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">BMI Analyzer</string>
+    <string name="txt_BMI">Body Mass Index (BMI)</string>
+    <string name="txt_weight">Weight</string>
+    <string name="txt_lb">lb</string>
+    <string name="txt_feet">feet</string>
+    <string name="txt_height">Height</string>
+    <string name="txt_inches">Inches</string>
+    <string name="btn_calculateBMI">Calculate BMI</string>
+    <string name="txt_yourBMI">Your BMI:</string>
+    <string name="BMI_comment">You are  </string>
+    <string name="BMI_underweight">Underweight</string>
+    <string name="BMI_normal">Normal Weight</string>
+    <string name="BMI_overweight">Overweight</string>
+    <string name="BMI_obesity">Obese</string>
+    <string name="action_settings">Settings</string>
+    <string name="BMI_weight_analyzer">Weight Analyzer</string>
+    <string name="BMI_about_us">About Us</string>
+    <string name="BMI_about_us_info">This application is developed by Hozefa Haveliwala and Nikhil Nagori.</string>
+    <string name="BMI">BMI ?</string>
+    <string name="BMI_analyzer">BMI Analyzer</string>
+    <string name="BMI_question">What is BMI?</string>
+
+    <string name="text_header">Target Weight</string>
+    <string name="text_radio">BMI Ranges</string>
+    <string name="range1"><![CDATA[<18.5]]></string>
+    <string name="range2">18.5 to 24.9</string>
+    <string name="range3">25.0 to 29.9</string>
+    <string name="range4"><![CDATA[>29.9]]></string>
+    <string name="calculate">Calculate Weight</string>
+    <string name="BMI_info">Body Mass Index (BMI) is a simple index of weight-for-height that is commonly used to classify underweight, overweight and obesity in adults. It is defined as the weight in kilograms divided by the square of the height in metres (kg/m2).</string>
+
+
+
+</resources>

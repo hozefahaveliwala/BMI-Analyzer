@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.bmianalyzer.bmianalyzer.WeightAnalyzerActivity">
+    <item android:title="@string/BMI_analyzer"
+        android:id="@+id/itemBMIAnalyzer" />
+    <item android:title="@string/BMI_about_us"
+        android:id="@+id/itemAboutUs" />
+    <item android:title="@string/BMI"
+        android:id="@+id/itemBMIInfo" />
+</menu>
